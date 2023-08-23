@@ -1,0 +1,4 @@
+
+Node.js Architecture:
+Node.js is built on the V8 JavaScript engine and follows an event-driven, non-blocking I/O model.
+It uses the CommonJS module system for managing dependencies.
